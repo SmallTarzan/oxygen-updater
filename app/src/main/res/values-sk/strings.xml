@@ -133,18 +133,18 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="theme_dark_subtitle">Jemná červená OnePlus farba s takmer čiernym pozadím. Toto farebné rozhranie si vyberte, ak chcete, aby aplikácia šetrila vašu batériu - hlavne pri AMOLED displejoch.</string>
 	<string name="theme_system_subtitle">Použiť nočný režim operačného systému (Nastaviteľné v nastavení displeja alebo v možnostiach pre vývojárov). Záleži na zariadení.</string>
 	<string name="theme_auto_subtitle">Prepínať medzi svetlou a tmavou farebnou témou podľa času dňa. V noci vám nebude svietiť jasné svetlo telefónu do tváre.</string>
-	<string name="theme_additional_note">Poznámka: Ak je \"Automatická\" farebná téma a šetrič batérie zapnútý naraz, tmavé farebné rozhranie sa zapne nezáležiac na čase dňa pre šetrenie batérie.</string>
+	<string name="theme_additional_note">Poznámka: Ak je \"Automatická\" farebná téma a šetrič batérie zapnutý naraz, tmavé farebné rozhranie sa zapne nezáležiac na čase dňa pre šetrenie batérie.</string>
 
 	<string name="settings">Nastavenia</string>
-	<string name="settings_buy_button_buy">Buy (%1$s)</string>
-	<string name="settings_buy_button_bought">Purchased</string>
-	<string name="settings_buy_button_not_possible">Unavailable</string>
-	<string name="settings_buy_ad_free_label">Upgrade to Ad-Free</string>
+	<string name="settings_buy_button_buy">Zakúpiť (%1$s)</string>
+	<string name="settings_buy_button_bought">Zakúpené</string>
+	<string name="settings_buy_button_not_possible">Nedostupné</string>
+	<string name="settings_buy_ad_free_label">Odstráňte reklamy</string>
 
-	<string name="settings_contribute_label">Help improve the app</string>
+	<string name="settings_contribute_label">Pomôžte nám zlepšiť našu aplikáciu</string>
 
-	<string name="settings_device">Device</string>
-	<string name="settings_entered_incorrectly">Error saving your settings. Please go back and select your device / update method again.</string>
+	<string name="settings_device">Zariadenie</string>
+	<string name="settings_entered_incorrectly">Nemôžno uložiť nastavenia. Vráťte sa späť a vyberte vaše zariadenie / aktualizačný balíček znova.</string>
 	<string name="settings_explanation_incremental_full_update">An incremental update can be installed from any version (except if you have an unlocked bootloader; then you should always pick the full update as update method).\n\nA beta update of OxygenOS can always be installed, as well when you\'re on a stable version. To switch from stable to beta, you have to enable the advanced mode in the settings. For the betas, the full and incremental update methods work the same way as on the stable versions.</string>
 
 	<string name="settings_push_from_server">Informational and warning messages</string>
