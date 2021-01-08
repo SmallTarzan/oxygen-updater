@@ -23,21 +23,21 @@
 	<string name="update_information_view_update_information">Zobraziť informácie o aktualizácií</string>
 
 	<!-- Server status warning strings -->
-	<string name="server_status_error">Some features do not work.</string>
-	<string name="server_status_unreachable">The server can\'t be reached. Try refreshing the page.</string>
-	<string name="server_status_warning">Some features may not work properly.</string>
+	<string name="server_status_error">Niektoré funkcie nefungujú.</string>
+	<string name="server_status_unreachable">Server nie je dostupný. Skúste obnoviť stránku</string>
+	<string name="server_status_warning">Niektoré funkcie nemusia fungovať stopercentne.</string>
 
 	<!-- New app version message strings -->
-	<string name="new_app_version">There\'s an app update available (%1$s). Tap here to open the Play Store and update the app.</string>
-	<string name="new_app_version_long">There\'s an app update available (%1$s). Keeping the app updated ensures you always get the latest features and bug fixes.\nTap here to open the Play Store and update the app.</string>
-	<string name="new_app_version_inapp_downloaded">The app update has been downloaded</string>
-	<string name="new_app_version_inapp_failed">The app update could not be installed. Tap here to open the Play Store and update the app.</string>
+	<string name="new_app_version">Je dostupná aktualizácia appky na verziu: (%1$s). Tuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
+	<string name="new_app_version_long">Je dostupná aktualizácia appky na verziu: (%1$s). Uistite sa, že je appka Oxygen Updater neustále aktualizovaná - získate tým najnovšie funkcie a opravy chýb.\nTuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
+	<string name="new_app_version_inapp_downloaded">Nová verzia appky sa stiahla</string>
+	<string name="new_app_version_inapp_failed">Appku sa nepodarilo nainštalovať. Tuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
 
 	<!-- Downloader strings-->
-	<string name="download">Download update</string>
-	<string name="downloaded">Update downloaded</string>
-	<string name="downloading">Downloading update…</string>
-	<string name="paused">Paused - tap to resume</string>
+	<string name="download">Stiahnuť aktualizáciu</string>
+	<string name="downloaded">Aktualizácia bola stiahnutá</string>
+	<string name="downloading">Sťahujem…</string>
+	<string name="paused">Pozastavené - kliknutím obnovíte sťahovanie</string>
 
 	<string name="download_complete">Download complete</string>
 	<string name="download_complete_notification">Tap to start the installation</string>
