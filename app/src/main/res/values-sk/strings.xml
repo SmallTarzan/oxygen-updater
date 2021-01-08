@@ -47,64 +47,64 @@
 	<string name="download_error_corrupt">Stiahnutý súbor je poškodený. Skúste ho stiahnuť znova.</string>
 	<string name="download_error_server">Server ohlásil chybu pri sťahovaní aktualizácie. Skúste to znova.</string>
 	<string name="download_error_internal">Nastala technická chyba pri sťahovaní aktualizácie. Skúste to znova. Ak sa vám to nepodarí, kontaktujte vývojára aplikácie.</string>
-	<string name="download_error_unsuccessful_response"><![CDATA[It seems that the download link is invalid. This could either mean we made a mistake while adding update data, or OnePlus has pulled/removed the update file from their servers. A notification has been sent to the team, and we\'ll look into this ASAP.
+	<string name="download_error_unsuccessful_response"><![CDATA[Zdá sa, že je odkaz na stiahnutie aktualizácie neplatný. Bola odoslaná správa vývojárskemu tímu, ktorý sa na to pozrie.
 
-If you\'d like to know more, feel free to contact us either via <a href="mailto:support@oxygenupdater.com">email</a> or on our <a href="https://discord.gg/5TXdhKJ">Discord server</a>.]]></string>
-	<string name="download_error_could_not_move_temp_file">The file has been downloaded, but couldn\'t be moved to the correct directory. Open a file manager, navigate to \"%1$s\" and manually move the file to the topmost directory of internal storage.</string>
+Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support@oxygenupdater.com">email</a> alebo na našom <a href="https://discord.gg/5TXdhKJ">Discorde</a>.]]></string>
+	<string name="download_error_could_not_move_temp_file">Aktualizácia sa úspešne stiahla, ale nepodarilo sa ju presunúť do správneho priečinka. Otvorte si správcu súborov vo vašom telefóne, otvorte si priečniok \"%1$s\" a manuálne presnuňte aktualizáciu do najvyššieho priečninka (Priečinok root).</string>
 
-	<string name="download_error_retry">RETRY</string>
-	<string name="download_error_resume">RESUME</string>
-	<string name="download_error_storage">There is insufficient storage space available on your device to download the update. Please remove some files and try downloading it again.</string>
+	<string name="download_error_retry">SKÚSIŤ ZNOVA</string>
+	<string name="download_error_resume">POKRAČOVAŤ</string>
+	<string name="download_error_storage">Vo vašom zariadení nie je dostatok miesta. Uvoľnite nejaké a skúste to znova.</string>
 
-	<string name="download_failed">Download failed</string>
-	<string name="download_pending">Your download will start soon…</string>
-	<string name="download_notification_error_server">Server error while downloading. Please restart the download.</string>
-	<string name="download_notification_error_internal">Technical error while downloading. Restart the download or contact support.</string>
-	<string name="download_notification_error_storage_full">Insufficient storage space.</string>
-	<string name="download_notification_error_corrupt">File verification failed. Check your connection and try again.</string>
+	<string name="download_failed">Nepodarilo sa stiahnuť súbor</string>
+	<string name="download_pending">Onedlho sa spustí sťahovanie aktualizácie…</string>
+	<string name="download_notification_error_server">Chyba servera. Skúste to znova.</string>
+	<string name="download_notification_error_internal">Nastala technická chyba pri sťahovaní aktualizácie. Skúste to znova alebo kontaktujte vývojára aplikácie.</string>
+	<string name="download_notification_error_storage_full">Nedostatok miesta.</string>
+	<string name="download_notification_error_corrupt">Kontrola súboru zlyhala. Skontrolujte vaše internetové pripojenie.</string>
 
-	<string name="download_progress_text_hours_remaining">About %1$d hours remaining</string>
-	<string name="download_progress_text_less_than_a_minute_remaining">Less than a minute remaining</string>
-	<string name="download_progress_text_minutes_remaining">About %1$d minutes remaining</string>
-	<string name="download_progress_text_one_hour_remaining">About 1 hour remaining</string>
-	<string name="download_progress_text_one_minute_remaining">About a minute remaining</string>
-	<string name="download_progress_text_seconds_remaining">A few seconds remaining</string>
-	<string name="download_progress_text_unknown_time_remaining">Calculating time remaining…</string>
-	<string name="download_progress_text_verifying">Verifying file…</string>
-	<string name="download_progress_text_paused">Paused</string>
+	<string name="download_progress_text_hours_remaining">Zostáva približne %1$d hodín</string>
+	<string name="download_progress_text_less_than_a_minute_remaining">Zostáva menej než minúta</string>
+	<string name="download_progress_text_minutes_remaining">Zostáva približne %1$d minút</string>
+	<string name="download_progress_text_one_hour_remaining">Zostáva 1 hodina</string>
+	<string name="download_progress_text_one_minute_remaining">Zostáva približne jedna minúta</string>
+	<string name="download_progress_text_seconds_remaining">Zostáva pár sekúnd</string>
+	<string name="download_progress_text_unknown_time_remaining">Vypočítava sa zostávajúci čas…</string>
+	<string name="download_progress_text_verifying">Kontroluje sa súbor…</string>
+	<string name="download_progress_text_paused">Pozastavené</string>
 
-	<string name="download_verifying">Verifying…</string>
-	<string name="download_verifying_error">File is damaged</string>
-	<string name="download_verifying_start">Your download will now be verified…</string>
+	<string name="download_verifying">Prebieha kontrola…</string>
+	<string name="download_verifying_error">Súbor je zrejme poškodený</string>
+	<string name="download_verifying_start">Vaša aktualizácia sa verifikuje…</string>
 
 	<!-- Settings strings-->
-	<string name="preference_header_support">Support us</string>
-	<string name="preference_header_device">Device</string>
+	<string name="preference_header_support">Podporte nás</string>
+	<string name="preference_header_device">Zariadenie</string>
 	<string name="preference_header_ui">UI</string>
-	<string name="preference_header_notifications">Notifications</string>
-	<string name="preference_header_advanced">Advanced</string>
-	<string name="preference_header_about">About</string>
+	<string name="preference_header_notifications">Notifikácie</string>
+	<string name="preference_header_advanced">Pokročilé možnosti</string>
+	<string name="preference_header_about">Info</string>
 
-	<string name="summary_on">Enabled</string>
-	<string name="summary_off">Disabled</string>
-	<string name="summary_please_wait">Please wait…</string>
-	<string name="summary_update_method">Select a device first</string>
-	<string name="summary_theme">Set theme</string>
-	<string name="summary_language">Set language</string>
-	<string name="summary_privacy_policy">View online</string>
-	<string name="summary_rate_app">Leave a 5 star review</string>
+	<string name="summary_on">Povolené</string>
+	<string name="summary_off">Zakázané</string>
+	<string name="summary_please_wait">Počkajte, prosím…</string>
+	<string name="summary_update_method">Najprv si vyberte zariadenie</string>
+	<string name="summary_theme">Farebná téma aplikácie</string>
+	<string name="summary_language">Jazyk</string>
+	<string name="summary_privacy_policy">Zobraziť online</string>
+	<string name="summary_rate_app">Zanechať 5-hviezdičkové hodnotenie</string>
 	<string name="summary_oxygen" translatable="false">v%1$s</string>
 
-	<string name="label_buy_ad_free">Remove ads</string>
-	<string name="label_theme">Theme</string>
-	<string name="label_language">Language</string>
-	<string name="label_privacy_policy">Privacy policy</string>
-	<string name="label_rate_app">Rate this app</string>
+	<string name="label_buy_ad_free">Odstrániť reklamy</string>
+	<string name="label_theme">Farebná téma aplikácie</string>
+	<string name="label_language">Jazyk</string>
+	<string name="label_privacy_policy">Zásady ochrany osobných údajov</string>
+	<string name="label_rate_app">Ohodnoťte túto aplikáciu</string>
 
-	<string name="theme_light">Light</string>
-	<string name="theme_dark">Dark</string>
-	<string name="theme_system">System</string>
-	<string name="theme_auto">Auto</string>
+	<string name="theme_light">Svetlá</string>
+	<string name="theme_dark">Tmavá</string>
+	<string name="theme_system">Podľa systému</string>
+	<string name="theme_auto">Automaticky</string>
 
 	<string name="key_ad_free" translatable="false">34ejrtgalsJKDf;awljker;2k3jrpwosKjdfpio24uj3tp3oiwfjdscPOKj</string>
 	<string name="key_contributor" translatable="false">become_contributor</string>
@@ -129,14 +129,13 @@ If you\'d like to know more, feel free to contact us either via <a href="mailto:
 	<string name="key_privacy_policy" translatable="false">privacy_policy</string>
 	<string name="key_oxygen" translatable="false">oxygen_updater</string>
 
-	<string name="theme_light_subtitle">Theme with a white background and OnePlus Red primary color</string>
-	<string name="theme_dark_subtitle">Muted OnePlus Red primary color, with an almost-black background. Use this theme to save battery, especially on AMOLED screens.</string>
-	<string name="theme_system_subtitle">Use the system\'s night mode (you can set this either in Display settings or in developer options). Varies by device.</string>
-	<string name="theme_auto_subtitle">Switch between light and dark themes based on the time of the day, to prevent eye strain at night</string>
-	<string name="theme_additional_note">Note: if the \"Auto\" theme is active and battery saver is enabled, dark theme will automatically be used regardless of time of day to
-		conserve battery</string>
+	<string name="theme_light_subtitle">Farebná téma s bielym pozadím a červenou OnePlus farbou</string>
+	<string name="theme_dark_subtitle">Jemná červená OnePlus farba s takmer čiernym pozadím. Toto farebné rozhranie si vyberte, ak chcete, aby aplikácia šetrila vašu batériu - hlavne pri AMOLED displejoch.</string>
+	<string name="theme_system_subtitle">Použiť nočný režim operačného systému (Nastaviteľné v nastavení displeja alebo v možnostiach pre vývojárov). Záleži na zariadení.</string>
+	<string name="theme_auto_subtitle">Prepínať medzi svetlou a tmavou farebnou témou podľa času dňa. V noci vám nebude svietiť jasné svetlo telefónu do tváre.</string>
+	<string name="theme_additional_note">Poznámka: Ak je \"Automatická\" farebná téma a šetrič batérie zapnútý naraz, tmavé farebné rozhranie sa zapne nezáležiac na čase dňa pre šetrenie batérie.</string>
 
-	<string name="settings">Settings</string>
+	<string name="settings">Nastavenia</string>
 	<string name="settings_buy_button_buy">Buy (%1$s)</string>
 	<string name="settings_buy_button_bought">Purchased</string>
 	<string name="settings_buy_button_not_possible">Unavailable</string>
