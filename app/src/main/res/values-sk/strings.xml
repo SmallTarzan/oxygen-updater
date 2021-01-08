@@ -14,13 +14,13 @@
 	<string name="update_information_banner_advanced_mode_tip">Vybrali ste si \"%1$s\" balíček aktualizácií. Je dôležité, aby ste v nastaveniach povolili pokročilý režim, inak tento balíček nebudete môcť nainštalovať.</string>
 	<string name="update_information_header_advanced_mode_hint">Povolili ste pokročilý režim</string>
 	<string name="update_information_header_advanced_mode_helper">Keďže ste povolili pokročilý režim, môžete si stiahnuť najnovší ZIP súbor pre vaše zariadenie \"%1$s\".\n\Pokročilý režim je možné vypnúť v nastaveniach aplikácie.</string>
-	<string name="update_information_different_version_changelog_notice">You\'re viewing a changelog for the latest update in the \"%1$s\" update track. If you intend to install this update, you must turn advanced mode on first (in settings).\n\nHowever, if you wish to see the changelog for the currently installed version instead, you\'ll need to switch back to the correct update method.</string>
-	<string name="update_information_last_checked_on">Last checked on: %1$s</string>
-	<string name="update_information_no_update_data_available">No update information is available</string>
+	<string name="update_information_different_version_changelog_notice">Pozeráte sa na novinky v najnovšej aktualizácii pre \"%1$s\" balíček. Ak si chcete túto aktualizáciu nainštalovať, je nutné, aby ste povolili pokročilý režim (V nastaveniach aplikácie).\n\nAvšak, ak by ste sa chceli pozrieť na novinky aktualizácie, ktorú máte práve nainštalovanú, je nutné nastaviť správnu metódu inštalácie aktualizácií.</string>
+	<string name="update_information_last_checked_on">Naposledy vyhľadané aktualizácie: %1$s</string>
+	<string name="update_information_no_update_data_available">Nemožno získať informácie o najnovšej aktualizácii</string>
 	<string name="update_information_oxygen_os_version">OxygenOS %1$s</string>
-	<string name="update_information_system_is_up_to_date">Your system is up to date</string>
-	<string name="update_information_unknown_update_name">Unnamed update for %1$s</string>
-	<string name="update_information_view_update_information">View update information</string>
+	<string name="update_information_system_is_up_to_date">Váš systém je aktualizovaný na najnovšiu dostupnú verziu</string>
+	<string name="update_information_unknown_update_name">Nepomenovaná aktualizácia: %1$s</string>
+	<string name="update_information_view_update_information">Zobraziť informácie o aktualizácií</string>
 
 	<!-- Server status warning strings -->
 	<string name="server_status_error">Some features do not work.</string>
