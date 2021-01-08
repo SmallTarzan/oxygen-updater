@@ -28,10 +28,10 @@
 	<string name="server_status_warning">Niektoré funkcie nemusia fungovať stopercentne.</string>
 
 	<!-- New app version message strings -->
-	<string name="new_app_version">Je dostupná aktualizácia appky na verziu: (%1$s). Tuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
-	<string name="new_app_version_long">Je dostupná aktualizácia appky na verziu: (%1$s). Uistite sa, že je appka Oxygen Updater neustále aktualizovaná - získate tým najnovšie funkcie a opravy chýb.\nTuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
+	<string name="new_app_version">Je dostupná aktualizácia appky na verziu: (%1$s). Ťuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
+	<string name="new_app_version_long">Je dostupná aktualizácia appky na verziu: (%1$s). Uistite sa, že je appka Oxygen Updater neustále aktualizovaná - získate tým najnovšie funkcie a opravy chýb.\nŤuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
 	<string name="new_app_version_inapp_downloaded">Nová verzia appky sa stiahla</string>
-	<string name="new_app_version_inapp_failed">Appku sa nepodarilo nainštalovať. Tuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
+	<string name="new_app_version_inapp_failed">Appku sa nepodarilo nainštalovať. Ťuknite sem pre aktualizáciu aplikácie cez Google Play.</string>
 
 	<!-- Downloader strings-->
 	<string name="download">Stiahnuť aktualizáciu</string>
@@ -39,14 +39,14 @@
 	<string name="downloading">Sťahujem…</string>
 	<string name="paused">Pozastavené - kliknutím obnovíte sťahovanie</string>
 
-	<string name="download_complete">Download complete</string>
-	<string name="download_complete_notification">Tap to start the installation</string>
+	<string name="download_complete">Aktualizácia bola stiahnutá</string>
+	<string name="download_complete_notification">Ťuknutím spustíte inštaláciu</string>
 
-	<string name="download_error">Download Error</string>
-	<string name="download_error_close">CLOSE</string>
-	<string name="download_error_corrupt">The downloaded update file is damaged! Please try downloading it again.</string>
-	<string name="download_error_server">A server error occurred while downloading the update. Please try downloading the update again.</string>
-	<string name="download_error_internal">Unfortunately, a technical error occurred while downloading the update. Try downloading it again. If this keeps occurring, please contact the developer of this app for assistance.</string>
+	<string name="download_error">Chyba sťahovania</string>
+	<string name="download_error_close">ZATVORIŤ</string>
+	<string name="download_error_corrupt">Stiahnutý súbor je poškodený. Skúste ho stiahnuť znova.</string>
+	<string name="download_error_server">Server ohlásil chybu pri sťahovaní aktualizácie. Skúste to znova.</string>
+	<string name="download_error_internal">Nastala technická chyba pri sťahovaní aktualizácie. Skúste to znova. Ak sa vám to nepodarí, kontaktujte vývojára aplikácie.</string>
 	<string name="download_error_unsuccessful_response"><![CDATA[It seems that the download link is invalid. This could either mean we made a mistake while adding update data, or OnePlus has pulled/removed the update file from their servers. A notification has been sent to the team, and we\'ll look into this ASAP.
 
 If you\'d like to know more, feel free to contact us either via <a href="mailto:support@oxygenupdater.com">email</a> or on our <a href="https://discord.gg/5TXdhKJ">Discord server</a>.]]></string>
