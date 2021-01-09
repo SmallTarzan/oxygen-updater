@@ -208,8 +208,8 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_options_explanation_title">Čo tieto možnosti znamenajú?</string>
 	<string name="install_options_explanation_backup">Zálohovať moje zariadenie:\nVybraním tejto možnosti sa váš operačný systém, aplikácie a nastavenia zazálohujú do telefónu predtým, než inštalácia začne. Ak sa niečo pokazí, takto môžete váš telefón obnoviť do stavu pred inštaláciou.</string>
 	<string name="install_options_explanation_keep_root">Ponechať moje zariadenie rootnuté:\nAk vyberiete túto možnosť, bude možné vybrať súbor (.zip), ktorý sa nainštaluje hneď po tom, čo sa aktualizuje OxygenOS. (Zvyčajne Magisk) Nezabudnite, že tejto .zip súbor Magisku musí byť kompatibilný s inštalovanou verziou OxygenOS.</string>
-	<string name="install_options_explanation_wipe_cache">Wipe the cache partition:\nWhen you select this option, the cache partition will be wiped after the update has been installed. This ensures your device performs optimally and also reduces the likelihood of experiencing bugs caused by the installation of the update.</string>
-	<string name="install_options_explanation_reboot">Reboot after installation:\nWhen you select this option, your device will automatically reboot back to OxygenOS after the update is installed. Otherwise, your device will stay in Recovery Mode, where you can install additional packages.</string>
+	<string name="install_options_explanation_wipe_cache">Vyčistiť cache:\nTýmto vyčistíte systémovú cache. Doporučuje sa vybrať túto možnosť, často opraví dočasné chyby, ktoré môžu vzniknúť po inštalácií aktualizácie.</string>
+	<string name="install_options_explanation_reboot">Reštartnúť po inštalácií:\nAk vyberiete túto možnosť, vaše zariadenie sa sa automaticky reštartne po dokončení inštalácie. Inak vaše zariadenie zostane v TWRP, kde bude možné spustiť inštaláciu napr. Magisku.</string>
 
 	<string name="install_method_chooser_title">Choose installation method</string>
 	<string name="install_method_chooser_subtitle">How do you want to install this update?</string>
