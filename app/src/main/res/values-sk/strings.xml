@@ -166,8 +166,8 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="faq_no_network_text">Pre zobrazenie často kladených otázok je nutné byť pripojený na internet.</string>
 
 	<!-- First-time onboarding strings -->
-	<string name="onboarding">Welcome</string>
-	<string name="onboarding_finished_button">Start app</string>
+	<string name="onboarding">Vitajte</string>
+	<string name="onboarding_finished_button">Spusiť aplikáciu</string>
 
 	<string name="onboarding_page_1_title">Welcome to Oxygen Updater!</string>
 	<string name="onboarding_page_1_text">This app will allow you to:\n\n&#8226; Get faster access to the latest Android updates for your OxygenOS powered device\n\n&#8226; Easily update a rooted device\n\n&#8226; View what\'s new in the system software you are currently using\n\n&#8226; Read the latest news about OnePlus and OxygenOS\n\nSwipe to the left to continue.</string>
