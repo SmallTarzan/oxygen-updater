@@ -145,14 +145,14 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 
 	<string name="settings_device">Zariadenie</string>
 	<string name="settings_entered_incorrectly">Nemôžno uložiť nastavenia. Vráťte sa späť a vyberte vaše zariadenie / aktualizačný balíček znova.</string>
-	<string name="settings_explanation_incremental_full_update">An incremental update can be installed from any version (except if you have an unlocked bootloader; then you should always pick the full update as update method).\n\nA beta update of OxygenOS can always be installed, as well when you\'re on a stable version. To switch from stable to beta, you have to enable the advanced mode in the settings. For the betas, the full and incremental update methods work the same way as on the stable versions.</string>
+	<string name="settings_explanation_incremental_full_update">Čiastočnú aktualizáciu je možné nainštalovať z akejkoľvek verzie (nie v prípade, že máte otvorený bootloader; vtedy by ste si mali vždy vybrať plný aktualizačný balíček).\n\nBeta aktualizačný balíček je možné nainštalovať aj vtedy, keď ste na stabilnej verzii OxygenOS. Na prechod do beta verzie OxygenOS je nutné, aby ste povolili pokročilý režim v nastaveniach. Čo sa týka beta verzií, plné a čiastočné aktualizačné balíčky fungujú rovnako ako na stabilnej verzii OxygenOS.</string>
 
-	<string name="settings_push_from_server">Informational and warning messages</string>
-	<string name="settings_push_new_version">System update messages</string>
-	<string name="settings_push_new_device">New device is supported</string>
-	<string name="settings_push_news">News messages</string>
+	<string name="settings_push_from_server">Informácie a varovania</string>
+	<string name="settings_push_new_version">Systémové hlásenia</string>
+	<string name="settings_push_new_device">Nové zariadenie je teraz podporované</string>
+	<string name="settings_push_news">Nové správy</string>
 
-	<string name="settings_saving">Your settings are still being saved. If this takes too long: Check your network connection, exit the app and start it again.</string>
+	<string name="settings_saving">Vaše nastavenia sa ukladajú. Ak to trvá pridlho, skontrolujte vaše internetové pripojenie, vypnite aplikáciu a skúste to znova.</string>
 
 	<string name="settings_advanced_mode">Advanced mode</string>
 	<string name="settings_advanced_mode_explanation">Advanced mode hides the message \"Your system is up to date\", allowing you to download and install all updates, even though they may not be compatible with your device.\n\nThis can be useful when:\n&#8226; Updating from a regular version to a beta version\n&#8226; Reverting from a beta version to the regular version (don\'t forget to factory reset your device)\n&#8226; Reinstalling your current system version.</string>
