@@ -205,9 +205,9 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_options_subtitle">Vyberte si možnosti inštalácie</string>
 	<string name="install_options_wipe_cache_partition">Vyčištiť cache</string>
 
-	<string name="install_options_explanation_title">What do these options mean?</string>
-	<string name="install_options_explanation_backup">Backup my device:\nWhen you select this option, a backup of your system, apps and settings will be made prior to the installation. Always handy to have, in case something goes horribly wrong.</string>
-	<string name="install_options_explanation_keep_root">Keep my device rooted:\nWhen you select this option, you may specify a root package which will be installed after the update is installed. This ensures that your device stays rooted. Please note that this root package must be compatible with the NEW OxygenOS version you are going to install!</string>
+	<string name="install_options_explanation_title">Čo tieto možnosti znamenajú?</string>
+	<string name="install_options_explanation_backup">Zálohovať moje zariadenie:\nVybraním tejto možnosti sa váš operačný systém, aplikácie a nastavenia zazálohujú do telefónu predtým, než inštalácia začne. Ak sa niečo pokazí, takto môžete váš telefón obnoviť do stavu pred inštaláciou.</string>
+	<string name="install_options_explanation_keep_root">Ponechať moje zariadenie rootnuté:\nAk vyberiete túto možnosť, bude možné vybrať súbor (.zip), ktorý sa nainštaluje hneď po tom, čo sa aktualizuje OxygenOS. (Zvyčajne Magisk) Nezabudnite, že tejto .zip súbor Magisku musí byť kompatibilný s inštalovanou verziou OxygenOS.</string>
 	<string name="install_options_explanation_wipe_cache">Wipe the cache partition:\nWhen you select this option, the cache partition will be wiped after the update has been installed. This ensures your device performs optimally and also reduces the likelihood of experiencing bugs caused by the installation of the update.</string>
 	<string name="install_options_explanation_reboot">Reboot after installation:\nWhen you select this option, your device will automatically reboot back to OxygenOS after the update is installed. Otherwise, your device will stay in Recovery Mode, where you can install additional packages.</string>
 
