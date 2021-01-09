@@ -229,10 +229,10 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_verify_success_title">Inštalácia sa dokončila</string>
 	<string name="install_verify_success_message">Úspešne sa nainštaloval OxygenOS, verzia %1$s.</string>
 
-	<string name="install_zip_file_clear">Clear root package file</string>
-	<string name="install_zip_file_pick">Choose root package file</string>
-	<string name="install_zip_file_placeholder">Select a root package…</string>
-	<string name="install_zip_file_wrong_file_type">You may only select a zip file. Please select the right file.</string>
+	<string name="install_zip_file_clear">Odstrániť Magisk.zip z môjho výberu</string>
+	<string name="install_zip_file_pick">Vybrať Magisk.zip</string>
+	<string name="install_zip_file_placeholder">Vybrať Magisk.zip…</string>
+	<string name="install_zip_file_wrong_file_type">Vyberte správny .zip súbor.</string>
 
 	<!-- Install guide strings -->
 	<string name="install_guide_no_root">Install the update according to the instructions shown in the install guide.</string>
