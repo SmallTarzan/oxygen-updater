@@ -211,23 +211,23 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_options_explanation_wipe_cache">Vyčistiť cache:\nTýmto vyčistíte systémovú cache. Doporučuje sa vybrať túto možnosť, často opraví dočasné chyby, ktoré môžu vzniknúť po inštalácií aktualizácie.</string>
 	<string name="install_options_explanation_reboot">Reštartnúť po inštalácií:\nAk vyberiete túto možnosť, vaše zariadenie sa sa automaticky reštartne po dokončení inštalácie. Inak vaše zariadenie zostane v TWRP, kde bude možné spustiť inštaláciu napr. Magisku.</string>
 
-	<string name="install_method_chooser_title">Choose installation method</string>
-	<string name="install_method_chooser_subtitle">How do you want to install this update?</string>
-	<string name="install_method_chooser_automatic_title">Automatic installation*</string>
-	<string name="install_method_chooser_automatic_description">The easiest way to install the update.\nYour device will restart to install the update.\n\n* Requires root access and TWRP recovery.</string>
+	<string name="install_method_chooser_title">Vybrať si metódu inštalácie</string>
+	<string name="install_method_chooser_subtitle">Ako si prajete nainštalovať túto aktualizáciu?</string>
+	<string name="install_method_chooser_automatic_title">Automaticky*</string>
+	<string name="install_method_chooser_automatic_description">Najjednoduchší spôsob inštalácie aktualizácie.\n\n* Vyžaduje root a TWRP recovery.</string>
 
-	<string name="install_method_chooser_manual_title">Manual installation</string>
-	<string name="install_method_chooser_manual_description">Read the install guide to learn how to install the update. You will install the update using the Recovery Mode of your device.</string>
+	<string name="install_method_chooser_manual_title">Manuálne</string>
+	<string name="install_method_chooser_manual_description">Prečítajte si návod na inštaláciu. Aktualizáciu nainštalujete cez recovery.</string>
 
-	<string name="install_temporary_error">A temporary error occurred while preparing the installation of the update. Please try it again.</string>
+	<string name="install_temporary_error">Nastala dočasná chyba pri inštalácií aktualizácie. Skúste to znova.</string>
 
-	<string name="install_verify_error_title">Installation failed</string>
-	<string name="install_verify_error_nothing_installed">Error when installing the update. No changes were made to the software of your device. Try installing the update again.</string>
-	<string name="install_verify_error_unable_to_verify">Failed to check if the update was installed successfully. Please open Oxygen Updater to see if the update was installed successfully.</string>
-	<string name="install_verify_error_wrong_version_installed">A different version of OxygenOS was installed. Don\'t select an OxygenOS update file when choosing a root package under the \"Keep my device rooted\" option.</string>
+	<string name="install_verify_error_title">Inštalácia sa nepodarilo</string>
+	<string name="install_verify_error_nothing_installed">Nepodarilo sa inštalovať aktualizáciu. Žiadne zmeny nenastali. Skúste to znova.</string>
+	<string name="install_verify_error_unable_to_verify">Nepodarilo sa zistiť či sa aktualizácia podarila nainštalovať. Otvorte Oxygen Updater a zisite, či sa systém aktualizoval.</string>
+	<string name="install_verify_error_wrong_version_installed">Nainštalovala sa odlišná verzia OxygenOS. Vyberte Magisk.zip, nie OxygenOS update, keď zaškrtnete \"Ponechať moje zariadenie rootnuté\".</string>
 
-	<string name="install_verify_success_title">Installation complete</string>
-	<string name="install_verify_success_message">OxygenOS version %1$s has been installed successfully.</string>
+	<string name="install_verify_success_title">Inštalácia sa dokončila</string>
+	<string name="install_verify_success_message">Úspešne sa nainštaloval OxygenOS, verzia %1$s.</string>
 
 	<string name="install_zip_file_clear">Clear root package file</string>
 	<string name="install_zip_file_pick">Choose root package file</string>
