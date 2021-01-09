@@ -235,11 +235,11 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_zip_file_wrong_file_type">Vyberte správny .zip súbor.</string>
 
 	<!-- Install guide strings -->
-	<string name="install_guide_no_root">Install the update according to the instructions shown in the install guide.</string>
-	<string name="install_guide_automatic_install_disabled">Automatic installations have been temporarily disabled due to reported technical issues. Install the update according to the instructions shown in the install guide.</string>
-	<string name="install_guide">Install guide</string>
-	<string name="install_guide_subtitle">Install guide - %1$d of %2$d</string>
-	<string name="install_guide_tip">&#8226; It\'s recommended to write all steps down, as you\'ll need to power off your device during the installation of the update.</string>
+	<string name="install_guide_no_root">Nainštalujte aktualizáciu pomocou inštrukcií zobrazených v návode na inštaláciu.</string>
+	<string name="install_guide_automatic_install_disabled">Automatická inštalácia bola dočasne pozastavená z technických príčin. Nainštalujte aktualizáciu pomocou inštrukcí zobrazených v návode na inštaláciu.</string>
+	<string name="install_guide">Návod na inštaláciu</string>
+	<string name="install_guide_subtitle">Návod na inštaláciu - %1$d z %2$d</string>
+	<string name="install_guide_tip">&#8226; Bude dobré, ak si všetky kroky najprv spíšete, keďže si ich nebudete môcť pozrieť znova počas inštalácie.</string>
 
 	<string name="install_guide_page_1_title">Download the update</string>
 	<string name="install_guide_page_1_text">&#8226; Press the Download button to start downloading the update.\n\n&#8226; The download progress will appear in the app, and as a notification in your notifications screen.\n\n&#8226; When the download has finished, you\'ll see a notification with the text \"Download complete\".\nIf a download error occurred, open the app and try to downloading the update again. If this doesn\'t work, make sure you have a working connection. Otherwise, contact the developer of the app. You can do this by visiting the \"My apps\" section of the Google Play Store.</string>
