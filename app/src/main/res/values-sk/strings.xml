@@ -177,33 +177,33 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="onboarding_page_3_title">Vyberte si váš aktualizačný balíček</string>
 	<string name="onboarding_page_3_caption">Zvyčajte je čiastočný aktualizačný balíček lepší, pretože je jeho finálna veľkosť menšia - sťahuje sa rýchlejšie.\n\nAvšak, nie je kompatibilný so zariadeniami, ktoré sú rootnuté. Ak je vaše zariadenie rootnuté, zvoľte si možnosť Celkovej aktualizácie.\n\nAk vaše zariadenie používa Beta aktualizačný balíček, zvoľte si jeden z OnePlus Beta balíčkov.</string>
 	<string name="onboarding_page_4_title">Hotovo!</string>
-	<string name="onboarding_page_4_text">Užite si aplikáciu!\n\nNastavenia sa dajú zmeniť aj neskôr. Nasledovne: Kliknite na tri bodky v pravom hornom rohu a kliknite na \"Nastavenia\".</string>
+	<string name="onboarding_page_4_text">Užite si aplikáciu!\n\nNastavenia sa dajú zmeniť aj neskôr; nasledovne: Kliknite na tri bodky v pravom hornom rohu a kliknite na \"Nastavenia\".</string>
 
 	<!-- Automatic install strings -->
-	<string name="install">Install</string>
-	<string name="install_checking_root">Checking if your device is rooted…</string>
-	<string name="install_grant_root_permissions">Please allow root access when asked.</string>
-	<string name="install_going_back_not_possible">Unfortunately, you can\'t go back now</string>
-	<string name="install_preparing_installation">Preparing installation…</string>
+	<string name="install">Inštalovať</string>
+	<string name="install_checking_root">Kontroluje sa, či je vaše zariadenie rootnuté…</string>
+	<string name="install_grant_root_permissions">Povoľte prístup k rootu, keď vám vyskočí okienko.</string>
+	<string name="install_going_back_not_possible">Už sa nedá vrátiť späť.</string>
+	<string name="install_preparing_installation">Začína inštalácia…</string>
 
-	<string name="install_recovery_installer_title">Update Installer&#160;&#160;</string> <!-- Add 2 spaces to the end -->
-	<string name="install_recovery_backing_up">Backing up your device. This will take a while!</string>
-	<string name="install_recovery_clearing_cache">Clearing the cache partition…</string>
-	<string name="install_recovery_done">Done. Your device will restart.</string>
-	<string name="install_recovery_installing_additional_zip">Installing the additional ZIP file…</string>
-	<string name="install_recovery_installing_update">Installing the update…</string>
-	<string name="install_recovery_thank_you">Thank you for using Oxygen Updater. If you like this app, please rate it 5 stars at Google Play :-)</string>
+	<string name="install_recovery_installer_title">Aktualizovať inštalátor&#160;&#160;</string> <!-- Add 2 spaces to the end -->
+	<string name="install_recovery_backing_up">Zálohuje sa vaše zariadenie. Chvíľu to potrvá.</string>
+	<string name="install_recovery_clearing_cache">Čistí sa cache…</string>
+	<string name="install_recovery_done">Hotovo. Teraz sa vaše zariadenie reštartne.</string>
+	<string name="install_recovery_installing_additional_zip">Inštalujú sa ZIP súbory v poradí…</string>
+	<string name="install_recovery_installing_update">Inštaluje sa aplikácia…</string>
+	<string name="install_recovery_thank_you">Vďaka, že ste využili aplikáciu OxygenOS Updater. Ak vám aplikácia pomohla, ohodnoťte nás 5-timi hviezdičkami na Google Play :-)</string>
 
-	<string name="install_error_write_script_failed">"Failed to prepare the installation of the update. Did you allow root access?"</string>
+	<string name="install_error_write_script_failed">"Inštalácia sa nezdarila. Povolili ste prístup k rootu?"</string>
 
-	<string name="install_options_backup">Backup my device</string>
-	<string name="install_options_header">You may customize the installation process by changing the options shown below. Tap on \"Start installation\" to start the installation of the update.</string>
-	<string name="install_options_keep_root">Keep my device rooted</string>
-	<string name="install_options_reboot_after_install">Reboot after installation</string>
-	<string name="install_options_select_root_package">Select the root package to install…</string>
-	<string name="install_options_start_install">Start installation</string>
-	<string name="install_options_subtitle">Choose your install options</string>
-	<string name="install_options_wipe_cache_partition">Wipe the cache partition</string>
+	<string name="install_options_backup">Zálohovať moje zariadenie</string>
+	<string name="install_options_header">Postup inštalácie si môžete nastaviť zmenou nasledujúcich možností. Kliknutím na \"Začať inštaláciu\" inštalácia započne.</string>
+	<string name="install_options_keep_root">Ponechať moje zariadenie rootnuté</string>
+	<string name="install_options_reboot_after_install">Po inštalácia reštartovať moje zariadenie</string>
+	<string name="install_options_select_root_package">Vyberte inštalačný .zip Magisku…</string>
+	<string name="install_options_start_install">Začať inštaláciu</string>
+	<string name="install_options_subtitle">Vyberte si možnosti inštalácie</string>
+	<string name="install_options_wipe_cache_partition">Vyčištiť cache</string>
 
 	<string name="install_options_explanation_title">What do these options mean?</string>
 	<string name="install_options_explanation_backup">Backup my device:\nWhen you select this option, a backup of your system, apps and settings will be made prior to the installation. Always handy to have, in case something goes horribly wrong.</string>
