@@ -154,16 +154,16 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 
 	<string name="settings_saving">Vaše nastavenia sa ukladajú. Ak to trvá pridlho, skontrolujte vaše internetové pripojenie, vypnite aplikáciu a skúste to znova.</string>
 
-	<string name="settings_advanced_mode">Advanced mode</string>
-	<string name="settings_advanced_mode_explanation">Advanced mode hides the message \"Your system is up to date\", allowing you to download and install all updates, even though they may not be compatible with your device.\n\nThis can be useful when:\n&#8226; Updating from a regular version to a beta version\n&#8226; Reverting from a beta version to the regular version (don\'t forget to factory reset your device)\n&#8226; Reinstalling your current system version.</string>
+	<string name="settings_advanced_mode">Pokročilý režim</string>
+	<string name="settings_advanced_mode_explanation">Pokročilý režim ignoruje správu: \"Váš systém je aktuálny\", čo vám dovolí nainštalovať aktualizácie aj v prípade, že nie sú kompatibilné s vašim zariadením.\n\nToto vám môže pomôcť v prípade, že:\n&#8226; Aktualizujete svoje zariadenie zo stabilnej verzie do beta verzie\n&#8226; Vraciate sa z beta verzie do stabilnej verzie (Nezabudnite resetovať továrenské nastavenia)\n&#8226; Chcete preinštalovať svoj operačný systém.</string>
 
-	<string name="settings_update_method">Update method</string>
-	<string name="settings_upload_logs">Share usage data and logs</string>
+	<string name="settings_update_method">Spôsob aktualizácie systému</string>
+	<string name="settings_upload_logs">Zdieľať údaje o používaní aplikácie a logy</string>
 
 	<!-- FAQ strings -->
-	<string name="faq">FAQ</string>
-	<string name="faq_menu_item">FAQ</string>
-	<string name="faq_no_network_text">You\'ll need a working connection to view the FAQ page.</string>
+	<string name="faq">Často kladené otázky</string>
+	<string name="faq_menu_item">Často kladené otázky</string>
+	<string name="faq_no_network_text">Pre zobrazenie často kladených otázok je nutné byť pripojený na internet.</string>
 
 	<!-- First-time onboarding strings -->
 	<string name="onboarding">Welcome</string>
