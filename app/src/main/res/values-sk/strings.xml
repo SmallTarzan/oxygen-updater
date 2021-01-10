@@ -241,29 +241,29 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_guide_subtitle">Návod na inštaláciu - %1$d z %2$d</string>
 	<string name="install_guide_tip">&#8226; Bude dobré, ak si všetky kroky najprv spíšete, keďže si ich nebudete môcť pozrieť znova počas inštalácie.</string>
 
-	<string name="install_guide_page_1_title">Download the update</string>
-	<string name="install_guide_page_1_text">&#8226; Press the Download button to start downloading the update.\n\n&#8226; The download progress will appear in the app, and as a notification in your notifications screen.\n\n&#8226; When the download has finished, you\'ll see a notification with the text \"Download complete\".\nIf a download error occurred, open the app and try to downloading the update again. If this doesn\'t work, make sure you have a working connection. Otherwise, contact the developer of the app. You can do this by visiting the \"My apps\" section of the Google Play Store.</string>
+	<string name="install_guide_page_1_title">Stiahnuť aktualizáciu</string>
+	<string name="install_guide_page_1_text">&#8226; Kliknutím na Stiahnuť aktualizáciu sa začne sťahovať aktualizácia.\n\n&#8226; Priebeh sťahovania sa zobrazí v samotnej aplikácii, ale taktiež aj ako notifikácia.\n\n&#8226; Keď sa aktualizácia dosťahuje, zobrazí sa správa \"Sťahovanie ukončené\".\nAk nastane chyba, otvorte túto appku znova a znova spustite sťahovanie. Ak ani to nepomôže, skontrolujte vaše pripojenie. Ak všetko zlyhá, kontaktujte vývojára aplikácie. Napríklad cez \"Moje aplikácie\" v Obchode Google Play.</string>
 
-	<string name="install_guide_page_2_title">Prepare for installation</string>
-	<string name="install_guide_page_2_text">"Note: The installation of the update takes place from a special page of the standard System Updates section of your device. If, for some reason, a system update appears when opening this section, you may also opt to install that update first. Afterwards, open Oxygen Updater again to see if you're completely up-to-date.
+	<string name="install_guide_page_2_title">Príprava inštalácie</string>
+	<string name="install_guide_page_2_text">"Poznámka: Váš systém sa najprv aktualizuje nezávisle od vášho systému a následne po reštarte aplikuje zmeny. Ak by náhodou vyskočila notifikácia o aktualizácii systému priamo od OnePlus, môžete najprv nainštalovať tú. Následne otvorte OxygenOS Update a zistite, či je stále nutné aktualizovať váš systém.
 
-Instructions:
-&#8226; Close Oxygen Updater by pressing the home button.
+Návod:
+&#8226; Zatvorte OxygenOS Updater stlačením domčeka (prípadne gestom).
 
-&#8226; Open the Settings app. It should be located in your app drawer.
+&#8226; Otvorte aplikáciu nastavenia. Mala by byť na vašej domovskej obrazovke (alebo v zozname aplikácií).
 
-&#8226; Scroll down until you see System updates. Tap on it."</string>
+&#8226; Scrollnite nižšie a nájdite "Systémové aktualizácie". Kliknite na ne.</string>
 
-	<string name="install_guide_page_3_title">Install the update</string>
-	<string name="install_guide_page_3_text">"Now that you're in the System Updates app, it's time to install the update.
+	<string name="install_guide_page_3_title">Inštalácia aktualizácie</string>
+	<string name="install_guide_page_3_text">"Teraz môžete nainštalovať aktualizáciu cez Systémové aktualizácie.
 
-&#8226; Within the System Updates section, tap the gear icon in the top right
+&#8226; Kliknite na tri bodky v pravom hornom rohu v Systémových aktualizáciach.
 
-&#8226; Now, select \"Local upgrade\". A file selection screen should appear.
+&#8226; Vyberte \"Lokálna aktualizácia\". Teraz by ste mali dostať možnosť vybrať súbor aktualizácie.
 
-&#8226; In this screen, tap on the update file you downloaded using Oxygen Updater. Its name should start with \"%1$sOxygen\".
+&#8226; Na tejto obrazovke vyberte súbor, ktorý ste stiahli, mal by sa volať: \"%1$sOxygen\".
 
-&#8226; Tap on \"Upgrade Now\". The installation should start automatically."</string>
+&#8226; Kliknite na \"Aktualizovať\". Inštalácia by mala automaticky začať."</string>
 
 	<string name="install_guide_page_4_title">Wait until the installation completes</string>
 	<string name="install_guide_page_4_text">"&#8226; The phone will now install the update and displays a progress bar. Please wait until the installation has finished. Installation may take anywhere from a few minutes up to 15 minutes.
