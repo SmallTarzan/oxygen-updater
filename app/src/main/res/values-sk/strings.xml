@@ -248,7 +248,7 @@ Ak potrebujete viacej informácií, kontaktujte nás na: <a href="mailto:support
 	<string name="install_guide_page_2_text">"Poznámka: Váš systém sa najprv aktualizuje nezávisle od vášho systému a následne po reštarte aplikuje zmeny. Ak by náhodou vyskočila notifikácia o aktualizácii systému priamo od OnePlus, môžete najprv nainštalovať tú. Následne otvorte OxygenOS Update a zistite, či je stále nutné aktualizovať váš systém.
 
 Návod:
-&#8226; Zatvorte OxygenOS Updater stlačením domčeka (prípadne gestom).
+&#8226; Zatvorte OxygenOS Updater stlačením domčeka (guličky, prípadne gestom).
 
 &#8226; Otvorte aplikáciu nastavenia. Mala by byť na vašej domovskej obrazovke (alebo v zozname aplikácií).
 
@@ -265,7 +265,7 @@ Návod:
 
 &#8226; Kliknite na \"Aktualizovať\". Inštalácia by mala automaticky začať."</string>
 
-	<string name="install_guide_page_4_title">Wait until the installation completes</string>
+	<string name="install_guide_page_4_title">Počkajte, kým sa inštalácia dokončí</string>
 	<string name="install_guide_page_4_text">"&#8226; The phone will now install the update and displays a progress bar. Please wait until the installation has finished. Installation may take anywhere from a few minutes up to 15 minutes.
 
 &#8226; Afterwards, your phone will restart to complete the update."</string>
